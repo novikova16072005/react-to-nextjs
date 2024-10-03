@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'RedHatItalic';
-    src: url('../assets/fonts/RedHatText-Italic-VariableFont_wght.ttf') format('truetype');
+    src: url('../fonts/RedHatText-Italic-VariableFont_wght.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 
     font-family: 'RedHatText';
-    src: url('../assets/fonts/RedHatText-VariableFont_wght.ttf') format('truetype');
+    src: url('../fonts/RedHatText-VariableFont_wght.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }

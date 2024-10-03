@@ -6,7 +6,7 @@ const Cart = ({ cartItems, totalPrice, updateQuantity }) => {
       <h2>Your Cart</h2>
       {cartItems.length === 0 ? (
         <div style={{ textAlign: 'center' }}>
-          <img src="/assets/assets/img/illustration-empty-cart.svg" alt="Empty Cart" style={{ width: '200px', height: 'auto' }} />
+          <img src="../assets/img/illustration-empty-cart.svg" alt="Empty Cart" style={{ width: '200px', height: 'auto' }} />
           <p>Your added items will appear here</p>
         </div>
       ) : (
